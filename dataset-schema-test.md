@@ -1,3 +1,4 @@
+---
 title: "Testing a markdown schema"
 date: 2026-07-13
 author: "Anya Wallace"
